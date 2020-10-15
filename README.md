@@ -52,5 +52,9 @@ results are consistent.\
 phenomena, for the spotting of potentially dangerous situations and determining
 the general mood of the blogosphere.
 
+# Approach
+# Output
+# Conclusion
+
 
 
