@@ -36,5 +36,3 @@ Others like Gradient Boosting Classifier and Bagging Classifier were also used b
 # Output
 # Conclusion
 The three different classifier three different scores but Random Forest Classifier gives the highest with higher precision and recall as well.
-
-https://www.google.com/search?q=hello+world&sxsrf=ALeKk01l6iqJApaaEc-TCrTmX9O0Y2HdJg:1602828304212&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiAhtXduLjsAhUTyjgGHYBGBJYQ_AUoAXoECB8QAw&biw=1536&bih=760#imgrc=02yrh6ToHf7A_M
