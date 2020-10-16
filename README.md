@@ -15,8 +15,26 @@ Lemmatization: Lemmatization, unlike Stemming, reduces the inflected words prope
 In the times where hate across social media platforms has visibly increased and triggered debates on mental health, we believe such an analysis will allow people to recognize whether the tweets on an account are on the negative or positive side. Thus, negative tweets with foul language/message can be hidden from a group of people below certain age or it can help brands to study their audience.
 
 # Approach
+•	Dataset
+https://www.kaggle.com/c/tweet-sentiment-extraction/data
+
+•	Data Visualization
+We add a column to our data frame called ‘text length’ that contains the length of the tweet. We do this to see if there is relationship or a pattern between the sentiment and length of the tweet.
+
+•	Data Transforming
+Simply there are three steps our data will be going through:
+1)	Count Vectorizer: converts data into bag of words with user defined analyzer called smooth.
+This analyzer removes urls, punctuation, stop words, lemmatizes words, stems the words and then returns the result.
+2)	Tf-Idf transformer: defines how important a word is.
+3)	Classifier: classifies the class of tweet (Positive, Negative, Neutral.)
+•	The main algorithms that have been used here for classification, supervised learning are:
+o	Logistic Regression
+o	Support Vector Classifier
+o	Random Forest Classifier
+Others like Gradient Boosting Classifier and Bagging Classifier were also used but their performance scores were much lesser than the algorithms mentioned above even after tuning their hyperparameters, hence, they are not shown in the code.
+
 # Output
 # Conclusion
-
+The three different classifier three different scores but Random Forest Classifier gives the highest with higher precision and recall as well.
 
 
