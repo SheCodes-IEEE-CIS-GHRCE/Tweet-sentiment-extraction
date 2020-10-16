@@ -29,9 +29,9 @@ Simply there are three steps our data will be going through:
 This analyzer removes urls, punctuation, stop words, lemmatizes words, stems the words and then returns the result.
 2)	Tf-Idf transformer: defines how important a word is.
 3)	Classifier: classifies the class of tweet (Positive, Negative, Neutral.)\
-   •	The main algorithms that have been used here for classification, supervised learning are:
-     o	Logistic Regression
-     o	Support Vector Classifier
+   •	The main algorithms that have been used here for classification, supervised learning are:\
+     o	Logistic Regression\
+     o	Support Vector Classifier\
      o	Random Forest Classifier\
     Others like Gradient Boosting Classifier and Bagging Classifier were also used but their performance scores were much lesser than the algorithms mentioned above even after       tuning their hyperparameters, hence, they are not shown in the code.
 
