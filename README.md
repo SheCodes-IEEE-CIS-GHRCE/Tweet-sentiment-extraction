@@ -1,6 +1,6 @@
 # Tweet-sentiment-extraction
 # Problem statement 
- Twitter Sentiment Analysis with Machine Learning
+ Twitter Sentiment Extraction with Machine Learning
 # Introduction
 In recent years, a huge number of people have been attracted to social media platforms like Twitter, Facebook, Instagram etc. People use social sites to express their emotions, beliefs or opinions about things, places or personalities. It's not only people expressing their views, but social media has evolved to a greater dimension where brands, politicians, journalists, influencers all co-exists together with different agendas like promoting products/ideologies, entertaining people, demanding justice and whatnot.
 
