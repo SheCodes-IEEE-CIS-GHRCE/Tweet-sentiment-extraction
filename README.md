@@ -32,7 +32,7 @@ This analyzer removes urls, punctuation, stop words, lemmatizes words, stems the
    •	The main algorithms that have been used here for classification, supervised learning are:
      o	Logistic Regression
      o	Support Vector Classifier
-     o	Random Forest Classifier
+     o	Random Forest Classifier\
     Others like Gradient Boosting Classifier and Bagging Classifier were also used but their performance scores were much lesser than the algorithms mentioned above even after       tuning their hyperparameters, hence, they are not shown in the code.
 
 # Output
